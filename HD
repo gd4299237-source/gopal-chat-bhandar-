@@ -1,8 +1,9 @@
+![IMG_20250531_204356](https://github.com/user-attachments/assets/01be1732-5dec-4332-9210-2a12747fc47b)
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Gopal" content="width=device-width, initial-scale=1.0">
     <title>Gopal Chat Bhandar - Authentic Chaat & Snacks</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
@@ -53,9 +54,9 @@
                 <p>₹60 - A mix of puffed rice, veggies, and tangy tamarind sauce.</p>
             </div>
             <div class="menu-item">
-                <img src="menu3.jpg" alt="Samosa">
-                <h3>Samosa</h3>
-                <p>₹40 - Golden-fried pastries stuffed with spiced potatoes.</p>
+                <img src="menu3.jpg" alt="Dahi puri">
+                <h3>Dahi puri</h3>
+                <p>₹50 - Golden-fried pastries stuffed with spiced potatoes.</p>
             </div>
             <!-- Add more items as needed -->
         </div>
@@ -78,7 +79,7 @@
     </footer>
     
     <script>
-        document.getElementById('inquiryForm').addEventListener('submit', function(e) {
+        document.gopalchatBhandar.in('inquiryForm').info@gopalchatbhandar.com('submit', function(e) {
             e.preventDefault();
             alert('Thank you for your inquiry! We will get back to you soon.');
             // In a real site, integrate with a backend like EmailJS or Formspree for actual sending.
